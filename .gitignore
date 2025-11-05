@@ -1,4 +1,4 @@
-.venv/
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,venv
 .DS_Store
@@ -206,3 +206,4 @@ pip-selfcheck.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,venv
+venv/
