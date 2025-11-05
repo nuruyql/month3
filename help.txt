@@ -1,0 +1,38 @@
+sudo apt update
+ sudo apt upgrade
+ 
+ 
+ Правила установки:
+     1) sudo apt update
+     2) sudo apt install ...
+ 
+ # Проверка версии python
+ python3 --version
+ 
+ python3.11 --version
+
+rm -r venv 
+ 
+ 1) Уставнока Python на ubuntu
+     sudo apt install python3 
+ 
+ 2) Установка venv на ubuntu
+     sudo apt install python3-venv
+ 
+ 3) Создание venv 
+     python3 -m venv ven
+ 
+ 4) Активация venv
+     for mac/linux - source venv/bin/activate
+     for windows - venv\Scripts\activate
+ 
+ 5) Деактивировать
+     deactivate
+ 
+ 6) Уставнока полной версии flet 
+     for linux\windows = pip intsall flet[all]
+     for mac = pip intsall flet 
+ 
+ 
+ 7) Уставнока доп библиотеки 
+     sudo apt install libmpv1
